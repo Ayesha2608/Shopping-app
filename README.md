@@ -1,11 +1,11 @@
 
-# 🛒 ShopEase - A Basic Shopping App
+# ShopEase - A Basic Shopping App
 
 **ShopEase** is a simple and elegant shopping app built using Flutter, designed to help users browse and explore different categories of products — from electronics and clothing to groceries — all in one place. It’s a minimal, beginner-friendly app perfect for learning how Flutter works with navigation, state management, and UI design.
 
 ---
 
-## ✨ Features
+## Features
 
 - Categorized product listing (Electronics, Clothing, Groceries)
 - Beautiful UI with cards and shadows for clean item representation
@@ -17,15 +17,15 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 📦 Prerequisites
+###  Prerequisites
 
 - Flutter SDK (v3.x or later)
 - Dart SDK
 - Android Studio or VS Code with Flutter plugin
 
-### 🛠 Installation Steps
+###  Installation Steps
 
 1. **Clone the repository:**
 
@@ -48,7 +48,7 @@ flutter run
 
 ---
 
-## 🧩 Assets
+##  Assets
 
 Ensure you have the following local images placed inside the `assets/images/` directory:
 
@@ -95,7 +95,7 @@ flutter:
 
 ---
 
-## 🧠 Learning Goals
+##  Learning Goals
 
 This project is ideal for Flutter beginners and intermediate learners who want to:
 
@@ -109,7 +109,7 @@ This project is ideal for Flutter beginners and intermediate learners who want t
 
 ---
 
-## 💡 Usage
+##  Usage
 
 - Launch the app and explore categories
 - Tap any category to see its items
@@ -119,13 +119,13 @@ This project is ideal for Flutter beginners and intermediate learners who want t
 
 ---
 
-## 📜 License
+##  License
 
 This project is open for learning and personal use. No official license is attached yet. You may add [MIT License](https://choosealicense.com/licenses/mit/) or any preferred one later.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Ayesha Iftikhar**  
 GitHub: [@Ayesha2608](https://github.com/Ayesha2608)
